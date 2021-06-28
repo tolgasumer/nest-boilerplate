@@ -1,6 +1,9 @@
 ## Description
 
-Boilerplate for a NestJS REST API (Express) performing CRUD operations with TypeORM. Swagger enabled.
+Boilerplate for a NestJS REST API (Express) performing CRUD operations with TypeORM. Swagger enabled. (/swagger-ui)
+
+
+![Swagger-UI](https://i.ibb.co/6HwXL3T/nest-boilerplate-swaggerui.png)
 
 ## Configuration
 
